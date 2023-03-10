@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Erik 👋
 
-<!--
-**erik93UNLaM/erik93UNLaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+:man_technologist: Software developer | :family_man_man_boy: Husband and father | 🏡 Remote first | :argentina: Argentino 
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+:e-mail: alvarez.a.eik@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:briefcase: [Linkedin](https://www.linkedin.com/in/erik-alvarez-896a6283/ "Linkedin")
+
+## Resume
+:gb: [English](https://docs.google.com/document/d/1XYww0VGAMdP-Q-Mz8494FVj7pc29-g7v/edit?usp=sharing&ouid=108395686951596260491&rtpof=true&sd=true)
+:es: [Español](https://docs.google.com/document/d/1BNfOyLnWweTuEoqxzeVdxNnE0qditViu/edit?usp=sharing&ouid=108395686951596260491&rtpof=true&sd=true)
